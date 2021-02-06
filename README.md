@@ -5,5 +5,5 @@
 
 Created a fun WeatherApp utilizing OpenWeather API that displays weather information for international cities. Simply enter the name of the city to get weather information. 
 
-<a href="https://github.com/RenaissanceMan06/WeatherApp/blob/main/weather_output.png">
-<img src="weather_output.png" alt="image"></a>
+<a href="https://github.com/RenaissanceMan06/WeatherApp/blob/main/weatherapp_output.png">
+<img src="weatherapp_output.png" alt="image"></a>
