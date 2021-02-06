@@ -3,7 +3,7 @@
 
 # WeatherApp
 
-Created a fun WeatherApp utilizing OpenWeather API that displays weather information for international cities. Simply enter the name of the city to get weather information. 
+Created a fun WeatherApp utilizing OpenWeather API that displays weather information for international cities. Simply enter the name of the city to get weather forecast. 
 
 <a href="https://github.com/RenaissanceMan06/WeatherApp/blob/main/weather.app_output.png">
 <img src="weather.app_output.png" alt="image"></a>
