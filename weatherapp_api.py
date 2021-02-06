@@ -48,7 +48,7 @@ def main():
     if rain == {}:
         print('No Precipitation: ')
     else:
-        print('Precipitation: ', rain['3h'], '%')
+        print('Precipitation: ', rain['1h'], '%')
     wind = weather.get_wind()['speed']
     print(f'Wind speed: {wind} mph')
     snow = weather.get_snow()
